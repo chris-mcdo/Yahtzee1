@@ -19,7 +19,7 @@ Completed over summer 2016(?) for fun. Later submitted for and awarded a Gold [C
 - You must score once in each category, and the score is determined by a different rule for each category. 
 - The game ends once all 13 categories have been scored.
 
-### A couple of screenshots
+### Screenshots
 ![Alt text](rules.png?raw=true "Rules screen")
 
 ![Alt text](newperson.png?raw=true "Creating a profile")
